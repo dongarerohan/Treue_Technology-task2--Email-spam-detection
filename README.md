@@ -1,6 +1,6 @@
 # Treue_Technology-task2-Email Spam Detection
 
-DESCRIPTION
+DESCRIPTION :-
 
 • The project code was completely done using Python Treue Technology, which provided the data set.
 
@@ -14,7 +14,7 @@ DESCRIPTION
 
 • A classification report has been completed, in the end.
 
-Other Important Steps in Detecting Spam Mail:
+Other Important Steps in Detecting Spam Mail:-
 
 • Email Filtering: One of the primary methods for spam mail detection is email filtering. It entails classifying incoming emails as spam or not. On the basis of the content and metadata of the emails, machine learning algorithms can be trained to identify spam.
 
