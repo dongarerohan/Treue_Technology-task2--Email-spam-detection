@@ -1,4 +1,4 @@
-# Treue_Technology-task2-Bank-Churn-Prediction
+# Treue_Technology-task2-Email Spam Detection
 
 DESCRIPTION
 
